@@ -1,0 +1,11 @@
+:root {
+  --red: #E3350D;
+  --blue: #1B53BA;
+  --yellow: #FFCC05;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
